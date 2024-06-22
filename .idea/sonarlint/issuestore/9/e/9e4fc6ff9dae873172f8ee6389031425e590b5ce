@@ -1,0 +1,17 @@
+
+v
+java:S2699È"-Add at least one assertion to this test case.(ªÊ›Àùÿÿÿÿ8åØ¥’„2J$ea732cce-b719-43fd-82a4-c078928e5a7c
+v
+java:S2699Ì"-Add at least one assertion to this test case.(úŸ™åùÿÿÿÿ8åØ¥’„2J$32bee9b5-0e21-46bc-82ba-6bb64d7688b7
+v
+java:S2699Ð"-Add at least one assertion to this test case.(äê¬²ùÿÿÿÿ8åØ¥’„2J$e61f13d5-68f3-4d57-af8e-276f99c8a339
+‚
+java:S5838">Use assertThat(actual).isEqualByComparingTo(expected) instead.(œÔ½˜8åØ¥’„2J$aeedd898-f9cd-4401-b24b-cca8083429f1
+‡
+java:S5838¤">Use assertThat(actual).isEqualByComparingTo(expected) instead.(ËòÍÙûÿÿÿÿ8åØ¥’„2J$59c8959d-557d-4c1f-8574-63cacf624517
+‚
+java:S5838¾">Use assertThat(actual).isEqualByComparingTo(expected) instead.(¦úÊØ8åØ¥’„2J$3bf53113-52fe-4a07-9714-81c464a5ebe9
+‚
+java:S5838¿">Use assertThat(actual).isEqualByComparingTo(expected) instead.(¨šÑ‹8åØ¥’„2J$4152269e-0635-45ca-9208-988694f55138
+˜
+java:S1128"PRemove this unused import 'org.springframework.boot.test.mock.mockito.MockBean'.(ì‰þËøÿÿÿÿ8Ò‚º’„2J$1dbe05e9-0309-45b9-b0c5-9cc162db71e7
